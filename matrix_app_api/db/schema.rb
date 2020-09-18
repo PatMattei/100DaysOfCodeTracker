@@ -20,4 +20,5 @@ ActiveRecord::Schema.define(version: 2020_09_18_010110) do
     t.string "description"
     t.string "img_url"
   end
+
 end
