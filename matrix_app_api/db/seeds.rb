@@ -11,3 +11,7 @@ Character.create([
 	{ name: "Morpheus", description: "In the Matrix films, Morpheus is the captain of the Nebuchadnezzar." },
 	{ name: "Agent Smith", description: "Smith began as an Agent, an AI program in the Matrix programmed to keep order within the system by terminating human simulacra which would bring instability to the simulated reality, as well as any rogue programs that no longer serve a purpose to the Machine collective." },
 ])
+
+Vehicle.create([
+	{ name: "Nebuchadnezzar", style: "Spaceship" }
+])
