@@ -7,7 +7,7 @@
 
 
 ## My Repos
- 1. [Challenges Repo](https://github.com/PatMattei/100DaysOfCodeTracker)
+ 1. [Challenges Repo](https://github.com/PatMattei/Hacker-Rank-Challenges)
  1. [project 1 code]()
  1. [project 2 code]()
  1. [project 3 code]()
